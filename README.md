@@ -20,10 +20,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Contributing
 Individual work by me, Marissa Wilson, with the help of...
 * Instructors Fil and Daniel
-* Study group on Slack
-* Useful Links:
+* The Boolean Bros
+* BCS Tutor
+* Helpful links:
 
 ## Tests
 
 ## Questions
-Please do not hesitate to reach out to me via email at wilson.marissarose@gmai.com for any comments and questions!
+Please do not hesitate to reach out to me via email at wilson.marissarose@gmail.com for any comments and questions!
