@@ -1,4 +1,6 @@
 // array of questions for user
+const fs = require("fs");
+
 const questions = [
 
 ];
