@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.3.1",
+    "readme-md-generator": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marissarrwilson/READMEgenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marissarrwilson/READMEgenerator/issues"
+  },
+  "homepage": "https://github.com/marissarrwilson/READMEgenerator#readme"
 }
