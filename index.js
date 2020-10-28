@@ -67,14 +67,14 @@ function generateMarkdown(response){
 
 ## Table of contents
 
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
-[Screenshots](#screenshots)
-[Tests](#tests)
-[Credits](#credits)
-[Questions](#questions)
-[License](#license)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Screenshots](#screenshots)
+* [Tests](#tests)
+* [Credits](#credits)
+* [Questions](#questions)
+* [License](#license)
 
 ## Description
 ${response.description}

@@ -1,18 +1,16 @@
 
-# READMEgenerator
-
-[Github license](undefined)
+# README Generator
 
 ## Table of contents
 
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
-[Screenshots](#screenshots)
-[Tests](#tests)
-[Credits](#credits)
-[Questions](#questions)
-[License](#license)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Screenshots](#screenshots)
+* [Tests](#tests)
+* [Credits](#credits)
+* [Questions](#questions)
+* [License](#license)
 
 ## Description
 This application generates a custom readme file based on the user's answers to the prompts in the integrated terminal.
