@@ -1,12 +1,46 @@
-# README Generator
+
+# READMEgenerator
+
+[Github license](undefined)
+
+## Table of contents
+
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[Screenshots](#screenshots)
+[Tests](#tests)
+[Credits](#credits)
+[Questions](#questions)
+[License](#license)
 
 ## Description
-
-## Table of Contents
+This application generates a custom readme file based on the user's answers to the prompts in the integrated terminal.
 
 ## Installation
+Git clone this repository and NPM install inquirer to use.
 
 ## Usage
+Answer the prompts in the integrated terminal to generate your custom README file!
+
+## Screenshots
+[!Screenshot of JS code](images/readmecode)
+
+## Tests
+Git clone this repository to test the app.
+
+## Credits
+Individual work by me, Marissa Wilson, with the help of...
+* Instructors Fil and Daniel
+* Boolean Bros
+* Useful Links:
+    - https://github.com/preyx/bchw7-readme/blob/master/
+
+## Questions
+For any questions regarding this project, I can be reached at wilson.marissarose@gmail.com.
+
+For additional information, please visit my GitHub profile here:
+[GitHub](https://github.com/marissarrwilson)
 
 ## License
 Copyright (c) [2020] [Marissa Wilson]
@@ -17,14 +51,3 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Contributors
-Individual work by me, Marissa Wilson, with the help of...
-* Instructors Fil and Daniel
-* The Boolean Bros
-* BCS Tutor
-* Helpful links:
-
-## Tests
-
-## Questions
-Please do not hesitate to reach out to me via email at wilson.marissarose@gmail.com for any comments and questions!
