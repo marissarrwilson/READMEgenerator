@@ -22,7 +22,7 @@ Git clone this repository and NPM install inquirer to use.
 Answer the prompts in the integrated terminal to generate your custom README file!
 
 ## Screenshots
-[!Screenshot of JS code](images/readmecode.png)
+![Screenshot of JS code](images/readmecode.png)
 
 ## Tests
 Git clone this repository to test the app.
